@@ -1,3 +1,5 @@
+/* ------------ NAVBAR ----------- */
+
 .navbar {
     background-color: #C05746;
 }
@@ -13,6 +15,36 @@
     font-size: 20px;
 }
 
+
+/* ------------ NAVBAR ----------- */
+
+.hero-image {
+
+}
+
+.promo-banner {
+
+}
+
+.about-us {
+
+}
+
+.reservation-link {
+
+}
+
+.food-info {
+
+}
+
+.menu-link {
+
+}
+
+
+
+/* ------------ MEDIA QUERIES ----------- */
 
 @media screen and (min-width: 800px) {
     .navbar li {
