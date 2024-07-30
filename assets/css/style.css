@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #C05746;
+}
+
+
+.navbar-brand {
+    background-color: #fff8f0;
+}
+
+.nav-item a {
+    color: #fff8f0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+
+@media screen and (min-width: 800px) {
+    .navbar li {
+        padding: 8px;
+        font-weight: 600;
+    }
+}
