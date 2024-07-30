@@ -1,4 +1,10 @@
-/*------------ NAVBAR -----------*/
+body {
+    margin: 0;
+    background-color: #fff8f0;
+}
+
+
+/*---------------------------------------- NAVBAR ----------------------------------------*/
 
 .navbar {
     background-color: #C05746;
@@ -13,11 +19,11 @@
     color: #fff8f0;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
+    margin: 0 auto;
 }
 
 
-
-
+/*---------------------------------------- HERO IMAGE ----------------------------------------*/
 
 .hero-image {
     height: 600px;
@@ -42,12 +48,33 @@
 }
 
 
-.promo-banner {
+/*---------------------------------------- PROMO BANNER ----------------------------------------*/
 
+.promo-banner {
+    background-color: #5FAD56;
 }
 
-.about-us {
+.banner-content {
+    padding: 16px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
 
+.banner-text {
+    flex-grow: 1;
+    line-height: 1.4;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+
+/*---------------------------------------- ABOUT US ----------------------------------------*/
+
+.about-us {
+    
 }
 
 .reservation-link {

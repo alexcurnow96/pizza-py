@@ -118,12 +118,22 @@ You can break the credits section up into Content and Media, depending on what y
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+
+
+- Instructions on how to create a top banner was taken from [How To Create A Top Banner FOr Websites - HTML & CSS Tutorial For Beginners](https://www.youtube.com/watch?v=x-LVUk2IxDU)
+
+- PerplexityAI was used to create the About Us text on index.html. It used a variety of sources from across the web to write the text, including giuseppesplace, panevino, and artigianidelcibo.
+
+
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
- 
+
+
+ Images from unsplash.com =
+ - hero image - Photo by Narda Yescas: https://www.pexels.com/photo/shallow-focus-photography-of-several-pizzas-1566837/
 
 ## Other General Project Advice
 
