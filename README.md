@@ -1,8 +1,8 @@
  Pizza PY
 
-Pizza PY is a pizza restaurant for sit down eat in pizza. The site will be targeted to all pizza lovers with the aim to entice customers to come and eat here. It will be welcoming to families and individuals alike. 
+Pizza PY is a pizza restaurant for sit-down eat-in pizza. It is located in the fictional town of Boroughingham. The site will be targeted to all pizza lovers with the aim to entice customers to come and eat here. It will be welcoming to families and individuals alike. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -11,8 +11,9 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Menu, Gallery, Contact, and Reservation page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - This section features our brand colours and logo to create a uniform and cohesive website. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
@@ -23,7 +24,7 @@ In this section, you should go over the different parts of your project, and des
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Welcom Section__
+- __Welcome Section__
 
   - This section will act as a welcome mat for our website. 
   - The customer will be drawn towards our services.
@@ -55,12 +56,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Resevation Page__
+- __The Reservation Page__
 
   - This page will allow customers to select a date, time and party size and be able to let them reserve their timeslot.
   - This section is important to the customer as it allows them to book in advance.
  
-__The Contact us Page__
+__The Contact Us Page__
   -This page will allow customers to leave a comment or review.
   -This page will have our full contact details including a map of our location..
 
