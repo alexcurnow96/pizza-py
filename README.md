@@ -103,14 +103,14 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
   
 
-![Gallery](https://github.com/alex-curnow96/pizza-py/README/Gallery.png)
+![Gallery](https://github.com/alexcurnow96/pizza-py/blob/main/README/Gallery.png)
 
   
   - __Menu Page__
   - The menu page will display the menu for the restaurant with a selection of Pizza's and Drinks.
   - The menu will be designed to keep in theme with the rest of the site and be appealing to customers.
 
-  ![Menu](https://github.com/alex-curnow96/pizza-py/README/Menu.png)
+  ![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/Menu.png)
 
 
 -  __The Reservation Page__
@@ -166,11 +166,9 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Validator Testing
 
-  
+  - HTML
 
-- HTML
-
-- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- No errors were returned when passing through the official [W3C validator](https://github.com/alexcurnow96/pizza-py/blob/main/README/menu validation.png) (https://github.com/alexcurnow96/pizza-py/blob/main/README/gallery validation.png)
 
 - CSS
 
