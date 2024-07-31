@@ -1,7 +1,3 @@
-
-**
-
-
 # Pizza PY
 
 
@@ -125,43 +121,72 @@ __The Contact Us Page__
 
 -This page will allow customers to leave a comment or review.
 
--This page will have our full contact details including a map of our location..
+-This page will have our full contact details including a map of our location.
 
   
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
   
-  
-  
+
+## UX
+
+### Site Goals
+
+The Pizza PY website is designed to promote the Pizza PY restaurant, a family-run Italian restaurant specializing in pizzas. 
+The intention of the site is for visitors to book a table after viewing the food and the menu. This converts visitors into customers/patrons
+for the restaurant.
+
+### Design Choices
+
+For the purpose of our Italian restaurant's website, we chose pizza themed colours. This included green, red, and yellow, as well as a dark 
+grey and an off-white to complement. We chose these colours for continuity between the images featured in the gallery and the branding of the site. 
+The images used were also taken from photographers around the world, rather than being made with AI, to better show the pizza topic.
+
+![Colour Palette](https://github.com/alexcurnow96/pizza-py/blob/main/README/pizza-restaurant/pizzapy-palette.png)
+
+### Wire Frames
+
+Our wireframes were created at the beginning of the project and worked as the basis for the rest of our site. 
+
+Entire site:
+![Wireframe 1](https://github.com/alexcurnow96/pizza-py/blob/main/README/pizza-restaurant.png)
+
+Home page: 
+![Wireframe 2](https://github.com/alexcurnow96/pizza-py/blob/main/README/pizza-homepage.png)
+
+### User Stories
+
+- As a customer, I want to make a reservation to dine at the restaurant.
+- As a customer, I want to see the menu to prepare myself.
+- As a customer, I want to see images of the food to decide what I want to eat.
+- As a customer, I want to see social media links to follow the restaurant.
+- As a customer, I want to see the restaurant's contact details to be able to phone.
+- As a customer, I want to be able to leave a review to have my opinion known.
+- As a customer, I want to see the restaurant's address easily to be able to get there. 
+- As a site owner, I want the website to be visually appealing and align with the brand to create confidence and familiarity.
+- As a site owner, I want the website to be easy to navigate for visitors.
+- DEV - complete Readme.md file with relevant project information
+- DEV - add accessibility for blind viewers/screen readers.
+- DEV - deploy site to public git hosting.
+- DEV - test website.
+
+### Testing
+
+
+
+
 
 ### Features Left to Implement
 
-  
+As a team, we brainstormed future ideas to implement if we had more time:
 
-- Another feature idea
+- Allergen information available for the menu items. 
+- Interactive booking system available with open dates and times.
+- Ability to order takeaway online, and delivery options/tracking.
+- Review page
+- Links to review sites to push confidence in the business and brand.
 
-  
-
-## Testing
-
-  
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-  
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-  
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-  
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-  
   
 
 ### Validator Testing
@@ -186,42 +211,22 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-  
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
-  
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 - In the GitHub repository, navigate to the Settings tab
 
-- From the source section drop-down menu, select the Master Branch
+- From the source section drop-down menu, select the Main Branch
 
-- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-  
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+- Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
   
-  
 
+The live link can be found here - https://alexcurnow96.github.io/pizza-py/
+
+  
 ## Credits
 
-  
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-  
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
-  
-
 ### Content
-
-  
 
 - We used the Love Running readme.md as a template. (https://github.com/Code-Institute-Solutions/readme-template)
 
@@ -233,13 +238,12 @@ You can break the credits section up into Content and Media, depending on what y
 
 - Menu Image template created by https://www.wepik.com
   
-  
 
 ### Media
 
 The images used for the home page and gallery page were taken from https://pexels.com
 
-- The list of images and artist are as follows:
+The list of images and artist are as follows:
 
 - Photo by Eneida Nieves: https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/
 
@@ -271,18 +275,4 @@ The images used for the home page and gallery page were taken from https://pexel
 
 ## Other General Project Advice
 
-  
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-  
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
-
-- Make sure to keep the messages in the imperative mood
-
-  
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-- For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
+  Thanks to the other teams, the team leads, and our ever amazing leader, Amy. This project couldn't have been completed without all of that support. 

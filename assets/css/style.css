@@ -31,9 +31,11 @@ body {
     margin: 0 auto;
 }
 
+
 .nav-item.active > a {
     font-weight: bold;
 }
+
 
 
 /*---------------------------------------- HERO IMAGE ----------------------------------------*/
