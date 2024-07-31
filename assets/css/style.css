@@ -24,18 +24,19 @@ body {
     background-color: #fff8f0;
 }
 
-.nav-item a {
+.nav-item > a {
     color: #fff8f0;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
     margin: 0 auto;
 }
 
-.nav-item.active , .nav-item.active a {
-    font-weight: bold !important;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
-  }
+
+.nav-item.active > a {
+    font-weight: bold;
+}
+
+
 
 /*---------------------------------------- HERO IMAGE ----------------------------------------*/
 
