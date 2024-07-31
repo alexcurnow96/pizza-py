@@ -24,8 +24,8 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 - This section features our logo and utilises the brand colours to create a uniform and cohesive website.
 
 
-![Nav Bar](https://github.com/alex-curnow96/pizza-py/README/navbar-desktop.png/)
-![Nav Bar](https://github.com/alex-curnow96/pizza-py/README/navbar-mobile.png/)
+![Nav Bar](https://github.com/alexcurnow96/pizza-py/blob/main/README/navbar-desktop.png)
+![Nav Bar](https://github.com/alexcurnow96/pizza-py/blob/main/README/navbar-mobile.png)
 
   
 -  __The landing page image__
@@ -36,7 +36,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 - The image features the branding colours to pull together the landing page.
 
-![Landing Page](https://github.com/alex-curnow96/pizza-py/README/hero-image.png/)
+![Landing Page](https://github.com/alexcurnow96/pizza-py/blob/main/README/hero-image.png)
 
   
 -  __Promotion Banner__
@@ -45,7 +45,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 - 
 - It will be seperated from the rest of the page with a green background so visitors to the site will be able to read it immediately and be enticed to visit the restaurant.   
 
-![Club Ethos](https://github.com/alex-curnow96/pizza-py/README/promo-banner.png)
+![Promo Banner](https://github.com/alexcurnow96/pizza-py/blob/main/README/promo-banner.png)
 
   
 
@@ -55,7 +55,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 - The about section has a yellow background to differentiate it from the rest of the home page. 
 
-![About Us](https://github.com/alex-curnow96/pizza-py/README/aboutus.png)
+![About Us](https://github.com/alexcurnow96/pizza-py/blob/main/README/aboutus.png)
 
 
 
@@ -66,8 +66,8 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 - The links both feature headings and buttons, styled according to our brand's colours and font styles. 
 
 
-![About Us](https://github.com/alex-curnow96/pizza-py/README/booking-link.png)
-![About Us](https://github.com/alex-curnow96/pizza-py/README/menu-link.png)
+![Booking Link](https://github.com/alexcurnow96/pizza-py/blob/main/README/booking-link.png)
+![Menu Link](https://github.com/alexcurnow96/pizza-py/blob/main/README/menu-link.png)
 
 
 
@@ -77,7 +77,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 - This section features a round image, as well as emoticons, to capture the readers attention. 
 
-![About Us](https://github.com/alex-curnow96/pizza-py/README/food-info.png)
+![Food Info](https://github.com/alexcurnow96/pizza-py/blob/main/README/food-info.png)
 
 
 
