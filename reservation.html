@@ -27,74 +27,124 @@
                   <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Menu</a>
+                  <a class="nav-link" href="Menu.htm">Menu</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Gallery</a>
+                  <a class="nav-link" href="Gallery.htm">Gallery</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="contact.html">Contact</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Reservation</a>
-                  </li>
               </ul>
             </div>
           </nav>
     </header>
+     
 
-
-
-    <section>
-      <main>
-        <section id="signup">
-          <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-         
-            <h2><i class="fa-solid fa-chair"style="color: rgb(78, 53, 16);"></i> Let's get you a seat</h2>
-            
-            <label for="name" style="display: inline-block; width: 100px; margin-left: 30px;">Name</label>
-            <input type="text" name="name" id="name" class="text-input" required style="width: calc(100% - 160px);">
-            <br>
-          
-            <label for="time" style="display: inline-block; width: 100px; margin-left: 30px;">Time</label>
-            <input type="time" name="time" id="time" class="text-input" required style="width: calc(100% - 160px);" min="10:00" max="22:00">
-            <br>
-          
-            <label for="date" style="display: inline-block; width: 100px; margin-left: 30px;">Date</label>
-            <input type="date" name="date" id="date" class="text-input" required style="width: calc(100% - 160px);" min="2024-08-03" max="2025-09-03">
-            <br>
-          
-            <label for="seats" style="display: inline-block; width: 100px; margin-left: 30px;">Seats</label>
-            <input type="number" name="seats" id="seats" class="text-input" min="1" min="20" required style="width: calc(100% - 160px);">
-            <br>
-            
-            
-
+        
           
             
            
-                          <div id="day3" class="date-info">
+                          <div style="margin: 30px;">
                             <h3><i class="fa-solid fa-circle-xmark" style="color: red;"></i> Date: August 3, 2024</h3>
-                            <p>This date is not available for reservation.</p>
-
-                          <input type="submit" value="Submit Reservation">
-                        </form>
-                      </div>
-            </form>
-        </section>
-    </main>
+                            
+                            <p>No reservation before this date.</p>
+                            <h3><i class="fa-solid fa-person-walking" style="color: rgb(100, 88, 88);"></i>Orders can be taken between these times</h3>
+                            
+                            <p>
+                              Weekdays: 11:00 AM - 11:00 PM<br>
+                              Saturday: 11:00 AM - 12:00 PM<br>
+                              Sunday: 10:00 AM - 8:00 PM<br>
+                          </p>
+                          <h3><i class="fa-solid fa-utensils" style="color: rgb(100, 88, 88);"></i>But reservation must be between</h3>
+                         
+                          <p>
+                            10:00 AM - 8:00 PM
+                            on all days<br>
+                            <section id="signup">
+                              <form id="signup-form" method="POST" style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #C05746; border-radius: 8px; box-shadow: 0 2px 4px rgba(16, 192, 60, 0.1);">
+                                <h2>      <i class="fa-solid fa-chair" style="margin: 40px; color: rgb(78, 53, 16);"></i>Let's get you a seat </h2>
+                                
+                               
+                            
+                                           <label for="name" style="display: inline-block; width: 100px; margin-left: 30px;">Name</label>
+                                <input type="text" name="name" id="name" class="text-input" required style="width: calc(100% - 160px);">
+                                <br>
+                              
+                                <label for="time" style="display: inline-block; width: 100px; margin-left: 30px;">Time</label>
+                                <input type="time" name="time" id="time" class="text-input" required style="width: calc(100% - 160px);" min="10:00" max="20:00">
+                                <br>
+                              
+                                <label for="date" style="display: inline-block; width: 100px; margin-left: 30px;">Date</label>
+                                <input type="date" name="date" id="date" class="text-input" required style="width: calc(100% - 160px);" min="2024-08-03" max="2025-09-03">
+                                <br>
+                              
+                                <label for="seats" style="display: inline-block; width: 100px; margin-left: 30px;">Seats</label>
+                                <input type="number" name="seats" id="seats" class="text-input" min="1" max="20" required style="width: calc(100% - 160px);">
+                                <br>
+                            
+                                <button type="submit" style="display: inline-block; padding: 10px 20px; background-color: #5FAD56; color: #ffffffce; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin-top: 10px;">Send</button>
+                            </form>
+                            
+                            </section>
+                         
+        
     
 
-    </section>
-
-
-
-
-    <footer>
-
-
+    <footer class="footer container-fluid">
+      <div id="footer-details" class="row">
+          <div class="col-sm-4">
+              <h5 class="uppercase general-sub">Find us at</h5>
+              <p class="inline-block">
+                  Pizza PY.<br>
+                  The Crescent<br>
+                  Boroughingham<br>
+                  W16 8PY
+              </p>
+          </div>
+          <div class="col-sm-4">
+              <h5 class="uppercase general-sub">Download</h5>
+              <p class="inline-block">
+                  Need a printable version of the menu? Download it here.
+                  <a href="#" target="_blank" class="cv-pdf">
+                      <i class="fa fa-download" aria-hidden="true"></i>
+                      <span class="sr-only">Download link.</span>
+                  </a>
+              </p>
+          </div>
+          <div class="col-sm-4">
+              <h5 class="uppercase general-sub">Social</h5>
+              <ul class="list-inline social-links">
+                  <li class="list-inline-item">
+                      <a target="_blank" href="#">
+                          <i class="fa fa-facebook" aria-hidden="true"></i>
+                          <span class="sr-only">Facebook</span>
+                      </a>
+                  </li>
+                  <li class="list-inline-item">
+                      <a target="_blank" href="#">
+                          <i class="fa fa-twitter" aria-hidden="true"></i>
+                          <span class="sr-only">Twitter</span>
+                      </a>
+                  </li>
+                  <li class="list-inline-item">
+                      <a target="_blank" href="#">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                          <span class="sr-only">LinkedIn</span>
+                      </a>
+                  </li>
+                  <li class="list-inline-item">
+                      <a target="_blank" href="#">
+                          <i class="fa fa-instagram" aria-hidden="true"></i>
+                          <span class="sr-only">Instagram</span>
+                      </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
     </footer>
 
+  
 
 
   <!-- Font Awesome kit -->
