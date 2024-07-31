@@ -1,4 +1,13 @@
-/* ------------ NAVBAR ----------- */
+body {
+    margin: 0;
+    background-color: #fff8f0;
+}
+
+.hidden-heading {
+    display: none;
+}
+
+/*---------------------------------------- NAVBAR ----------------------------------------*/
 
 .navbar {
     background-color: #C05746;
@@ -13,22 +22,78 @@
     color: #fff8f0;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
+    margin: 0 auto;
 }
 
 
-/* ------------ NAVBAR ----------- */
+/*---------------------------------------- HERO IMAGE ----------------------------------------*/
 
 .hero-image {
-
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero\ image.jpg") no-repeat center center/cover;
+    position: relative;
+    color: #fff8f0;
+    
 }
+
+.hero-image h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 400%;
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 15%;
+    left: 15%
+}
+
+
+/*---------------------------------------- PROMO BANNER ----------------------------------------*/
 
 .promo-banner {
-
+    background-color: #5FAD56;
 }
+
+.banner-content {
+    padding: 16px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.banner-text {
+    flex-grow: 1;
+    line-height: 1.4;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+
+/*---------------------------------------- ABOUT US ----------------------------------------*/
 
 .about-us {
-
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    text-align: center;
+    background: rgba(242, 193, 78, 0.7);
+    opacity: 0.7;
 }
+
+.about-one,
+.about-two,
+.about-three,
+.about-four {
+    font-weight: 600;
+    color:#4d5057;
+    text-align: center;
+}
+
 
 .reservation-link {
 
@@ -51,4 +116,44 @@
         padding: 8px;
         font-weight: 600;
     }
+
+    .hero-image h1 {
+        font-family: 'Alegreya Sans', sans-serif;
+        font-size: 800%;
+        font-weight: 500;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 10%;
+        left: 60%
+    }
+
+    /*---------------------------------------- ABOUT US ----------------------------------------*/
+    
+    .about-us {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    
+    .about-one,
+    .about-two,
+    .about-three,
+    .about-four {
+        background: rgba(242, 193, 78, 0.7);
+        padding: 15px;
+        text-align: center;
+        flex-basis: 200px;
+        flex-grow: 1;
+        border: 2px solid #fff8f0;
+    }
+    
+    .about-us p {
+        font-weight: 600;
+        color: #4d5057;
+    }
+    
 }
+
