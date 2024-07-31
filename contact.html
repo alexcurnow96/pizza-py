@@ -28,13 +28,13 @@
                   <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Menu</a>
+                  <a class="nav-link" href="menu.html">Menu</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Gallery</a>
+                  <a class="nav-link" href="gallery.html">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Reservation</a>
+                    <a class="nav-link" href="reservation">Reservation</a>
                   </li>
               </ul>
             </div>
@@ -44,82 +44,78 @@
 
 
     <section>
-        <div class="col-md-8 bg-color-three-reasons section-column">
+        <div class="container">
             <div class="row">
-                <div class="col">
-                    <h3 class="section-heading uppercase">About Me</h3>
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="section-item">
+                        <h4 class="three-reasons-heading uppercase">Where can you find us?</h4>
+                        <img src="assets/images/map.png" alt="Map" class="img-fluid">
+                    </div>
+                </div>
+                <!-- Item 1 -->
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="section-item">
+                        <p>
+                            Pizza PY.<br>
+                            The Crescent<br>
+                            Boroughingham<br>
+                            <strong>W16 8PY</strong>
+                        </p>
+                    </div>
+                </div>
+    
+                <!-- Item 2 -->
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="section-item">
+                        <h4 class="three-reasons-heading uppercase">Opening Hours</h4>
+                        <p>
+                            Weekdays: 11:00 AM - 11:00 PM<br>
+                            Saturday: 11:00 AM - 12:00 PM<br>
+                            Sunday: 10:00 AM - 8:00 PM<br>
+                        </p>
+                    </div>
+                </div>
+    
+                <!-- Item 3 -->
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="section-item">
+                        <h4 class="three-reasons-heading uppercase">Contact Information</h4>
+                        <p>
+                            <strong><i class="fa-solid fa-phone"></i>Phone:</strong> (555) 123-4567<br>
+                            <strong><i class="fa-solid fa-envelope"></i>Email:</strong> contact@pizzapy.com
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="container-fluid">
-              <div class="row">
-                <div class="col-12 col-sm-6 col-md-4">
-                  <div class="row">
-                    <div class="col-2">
-                    
-                    </div>
-                    <div class="col-10">
-                      <h4 class="three-reasons-heading uppercase">Where can you find us?</h4>
-                      
-                      <img src="assets/images/map.png" alt="Runners competing in marathon" class="img-fluid">
-                      <p>
-                        Pizza PY.<br>
-                        The Crescent<br>
-                        Boroughingham<br>
-                        <strong>W16 8PY</strong>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-                <div class="col-12 col-md-6">
-                  <div class="row">
-                    <div class="col-2">
-                      
-                    </div>
-                    <div class="col-10">
-                                <h4 class="three-reasons-heading uppercase">Opening Hours</h4>
-                                <p>
-                                    Weekdays: 11:00 AM - 11:00 PM<br>
-                                    Saturday: 11:00 AM - 12:00 PM<br>
-                                    Sunday: 10:00 AM - 8:00 PM<br>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6">
-                        <div class="row">
-                            <div class="col-2">
-                                
-                            </div>
-                            <div class="col-10">
-                                <h4 class="three-reasons-heading uppercase">Contact Information</h4>
-                                <p>
-                                 
-                                    <strong><i class="fa-solid fa-phone"></i>Phone:</strong> (555) 123-4567<br>
-                                    <strong><i class="fa-solid fa-envelope"></i>Email:</strong> contact@pizzapy.com
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+        </div>
+    </section>
+    
     </div>
     <section id="signup">
-      <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-        <h2>Leave us feedback</h2>
-        <label for="first-name">First Name</label>
-        <input type="text" name="first_name" id="first-name" class="text-input" required>
-        <br>
-        <label for="last-name">Last Name</label>
-        <input type="text" name="last_name" id="last-name" class="text-input" required>
-        <br>
-        <label for="message">Message</label>
-        <textarea name="message" id="message" class="text-input" rows="5" cols="40" required></textarea>
-        <br>
-        <button type="submit" class="join-button">Send</button>
-      </form>
+      <form id="signup-form" method="POST" style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #C05746; border-radius: 8px; box-shadow: 0 2px 4px rgba(16, 192, 60, 0.1);">
+        <h2 style="text-align: center;">Leave us feedback</h2>
+        
+        <div style="margin-bottom: 1rem;">
+            <label for="first-name" style="display: block; margin-bottom: 0.2rem; font-weight: bold; margin-left: 30px;">First Name</label>
+            <input type="text" name="first_name" id="first-name" class="text-input" required style="width: 100%; padding: 0.5rem; border: 1px solid #c4a705; border-radius: 4px; box-sizing: border-box; margin-bottom: 1rem;">
+        </div>
+    
+        <div style="margin-bottom: 1rem;">
+            <label for="last-name" style="display: block; margin-bottom: 0.2rem; font-weight: bold; margin-left: 30px;">Last Name</label>
+            <input type="text" name="last_name" id="last-name" class="text-input" required style="width: 100%; padding: 0.5rem; border: 1px solid #c4a705; border-radius: 4px; box-sizing: border-box; margin-bottom: 1rem;">
+        </div>
+    
+        <div style="margin-bottom: 1rem;">
+            <label for="message" style="display: block; margin-bottom: 0.2rem; font-weight: bold; margin-left: 30px;">Message</label>
+            <textarea name="message" id="message" class="text-input" rows="3" cols="40" required style="width: 100%; padding: 0.5rem; border: 1px solid #c4a705; border-radius: 4px; box-sizing: border-box; margin-bottom: 1rem; resize: vertical;"></textarea>
+        </div>
+    
+        <button type="submit" style="display: inline-block; padding: 10px 20px; background-color: #5FAD56; color: #ffffffce; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin-top: 10px;">Send</button>
+    </form>
+    
     </section>
-
+    
+    
 
 
 
@@ -177,7 +173,7 @@
       </div>
   </footer>
 
-  <!-- Font Awesome kit -->
+  <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
 </body>
 </html>
