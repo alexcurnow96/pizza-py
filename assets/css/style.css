@@ -63,6 +63,7 @@ body {
     background-color: #5FAD56;
 }
 
+
 .banner-content {
     padding: 16px;
     max-width: 100%;
@@ -70,6 +71,7 @@ body {
     display: flex;
     align-items: center;
 }
+
 
 .banner-text {
     flex-grow: 1;
@@ -99,6 +101,7 @@ body {
     color:#4d5057;
     text-align: center;
 }
+
 
 
 /*---------------------------------------- RESERVATION ----------------------------------------*/
@@ -228,58 +231,4 @@ body {
         color:#4d5057;
     }
     
-
-    /*---------------------------------------- FOOD INFO ----------------------------------------*/
-
-    .food-one,
-    .food-two {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .food-one > div,
-    .food-two > div {
-        width: 75%;
-    }
-
-    .food-one > div {
-        text-align: end;
-        align-self: flex-end;
-    }
 }
-
-@media screen and (min-width: 1200px) {    
-    /* Reasons section */
-    .food-one, */
-    .food-two {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .food-one > div,
-    .food-two > div {
-        width: 60%;
-    }
-
-    .food-info > div {
-        flex: 1;
-    }
-
-    .food-image {
-        order: 0
-    }
-
-    .food-two {
-        order: 1;
-        margin-left: 5px;
-    }
-
-    .food-two > div {
-        align-self: flex-start;
-    }
-
-    .food-one > div {
-        align-self: flex-end;
-    }
-} 
