@@ -57,6 +57,7 @@ body {
     background-color: #5FAD56;
 }
 
+
 .banner-content {
     padding: 16px;
     max-width: 100%;
@@ -64,6 +65,7 @@ body {
     display: flex;
     align-items: center;
 }
+
 
 .banner-text {
     flex-grow: 1;
@@ -95,21 +97,25 @@ body {
 }
 
 
-.reservation-link {
 
+/*---------------------------------------- RESERVATION ----------------------------------------*/
+
+.reservation {
+    text-align: center;
+    margin: 50px 5px;
 }
 
-.food-info {
-
+.reservation h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    color:#4d5057;
 }
 
-.menu-link {
-
-}
 
 
 
-/* ------------ MEDIA QUERIES ----------- */
+
+/*---------------------------------------- MEDIA QUERIES ----------------------------------------*/
 
 @media screen and (min-width: 800px) {
     .navbar li {
@@ -153,6 +159,22 @@ body {
     .about-us p {
         font-weight: 600;
         color: #4d5057;
+    }
+
+
+    /*---------------------------------------- RESERVATION ----------------------------------------*/
+
+    .reservation {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        margin: 50px 0;
+    }
+    
+    .reservation h2 {
+        font-family: 'Nunito', sans-serif;
+        font-size: 50px;
+        color:#4d5057;
     }
     
 }

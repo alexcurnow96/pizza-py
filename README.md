@@ -1,8 +1,8 @@
  Pizza PY
 
-Pizza PY is a pizza restaurant for sit down eat in pizza. The site will be targeted to all pizza lovers with the aim to entice customers to come and eat here. It will be welcoming to families and individuals alike. 
+Pizza PY is a pizza restaurant for sit-down eat-in pizza. It is located in the fictional town of Boroughingham. The site will be targeted to all pizza lovers with the aim to entice customers to come and eat here. It will be welcoming to families and individuals alike. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -11,10 +11,11 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Menu, Gallery, Contact, and Reservation page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - This section features our brand colours and logo to create a uniform and cohesive website. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/alexcurnow96/pizza-py/blob/main/README/navbar-desktop.png)
 
 - __The landing page image__
 
@@ -23,7 +24,7 @@ In this section, you should go over the different parts of your project, and des
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Welcom Section__
+- __Welcome Section__
 
   - This section will act as a welcome mat for our website. 
   - The customer will be drawn towards our services.
@@ -55,12 +56,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Resevation Page__
+- __The Reservation Page__
 
   - This page will allow customers to select a date, time and party size and be able to let them reserve their timeslot.
   - This section is important to the customer as it allows them to book in advance.
  
-__The Contact us Page__
+__The Contact Us Page__
   -This page will allow customers to leave a comment or review.
   -This page will have our full contact details including a map of our location..
 
@@ -118,12 +119,35 @@ You can break the credits section up into Content and Media, depending on what y
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+
+
+- Instructions on how to create a top banner was taken from [How To Create A Top Banner FOr Websites - HTML & CSS Tutorial For Beginners](https://www.youtube.com/watch?v=x-LVUk2IxDU)
+
+- PerplexityAI was used to create the About Us text on index.html. It used a variety of sources from across the web to write the text, including giuseppesplace, panevino, and artigianidelcibo.
+
+
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The images used for the gallery page were taken from https://pexels.com
+- The list of images and artist are as follows
+- Photo by Eneida Nieves: https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/
+- Photo by Max Avans: https://www.pexels.com/photo/person-preparing-pizza-on-kitchen-counter-5056625/
+- Photo by Athena Sandrini: https://www.pexels.com/photo/green-haired-woman-eating-pizza-2323183/
+- Photo by Jonathan Hidalgo : https://www.pexels.com/photo/four-different-pizzas-on-the-table-19130144/
+- Photo by Rene Strgar: https://www.pexels.com/photo/pizza-served-in-a-restaurant-22797802/
+- Photo by Jonathan Hidalgo : https://www.pexels.com/photo/top-view-of-pizzas-with-different-toppings-19130050/
+- Photo by Jorge Fakhouri Filho: https://www.pexels.com/photo/photo-of-woman-looking-at-pizza-2531110/
+- Photo by Rene Strgar: https://www.pexels.com/photo/a-pizza-taken-from-an-oven-13946695/
+- Photo by Anna Shvets: https://www.pexels.com/photo/woman-eating-pizza-sitting-by-restaurant-window-5953591/
+- Photo by Marcus Herzberg: https://www.pexels.com/photo/group-of-people-gathering-inside-bar-1058277/
+- Photo by Igor Starkov: https://www.pexels.com/photo/photo-of-cafe-interior-1307698/
 
- 
+
+
+ Images from unsplash.com =
+ - hero image - Photo by Narda Yescas: https://www.pexels.com/photo/shallow-focus-photography-of-several-pizzas-1566837/
+ - food image - Photo by cottonbro studio: https://www.pexels.com/photo/person-holding-sliced-of-pizza-4004465/
 
 ## Other General Project Advice
 
