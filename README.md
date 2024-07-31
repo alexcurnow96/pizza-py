@@ -95,7 +95,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
   
 
--  __Gallery__
+-  __Gallery Page__
 
 - The gallery will provide the user with supporting images to see what the restaurant and menu look like.
 
@@ -103,9 +103,15 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
   
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/alex-curnow96/pizza-py/README/Gallery.png)
 
   
+  - __Menu Page__
+  - The menu page will display the menu for the restaurant with a selection of Pizza's and Drinks.
+  - The menu will be designed to keep in theme with the rest of the site and be appealing to customers.
+
+  ![Menu](https://github.com/alex-curnow96/pizza-py/README/Menu.png)
+
 
 -  __The Reservation Page__
 
@@ -227,6 +233,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 - PerplexityAI was used to create the majority of the text on index.html. It used a variety of sources from across the web to write the text, including giuseppesplace, panevino, and artigianidelcibo.
 
+- Menu Image template created by https://www.wepik.com
   
   
 
