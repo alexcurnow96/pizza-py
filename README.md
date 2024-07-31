@@ -166,11 +166,9 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Validator Testing
 
-  
+  - HTML
 
-- HTML
-
-- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- No errors were returned when passing through the official [W3C validator](https://github.com/alexcurnow96/pizza-py/blob/main/README/menu validation.png) (https://github.com/alexcurnow96/pizza-py/blob/main/README/gallery validation.png)
 
 - CSS
 
