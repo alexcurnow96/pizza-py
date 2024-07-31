@@ -200,6 +200,9 @@ body {
 
 
 
+
+
+
 /*---------------------------------------- MEDIA QUERIES ----------------------------------------*/
 
 @media screen and (min-width: 768px) {
@@ -285,4 +288,19 @@ body {
     } */
 
    
+}
+
+
+@media screen and (min-width: 1024px) {
+
+    .hero-image h1 {
+        left: 60%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+    .hero-image h1 {
+        left: 70%;
+    }
 }
