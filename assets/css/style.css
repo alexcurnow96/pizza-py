@@ -57,6 +57,7 @@ body {
     background-color: #5FAD56;
 }
 
+
 .banner-content {
     padding: 16px;
     max-width: 100%;
@@ -64,6 +65,7 @@ body {
     display: flex;
     align-items: center;
 }
+
 
 .banner-text {
     flex-grow: 1;
@@ -93,6 +95,7 @@ body {
     color:#4d5057;
     text-align: center;
 }
+
 
 
 /*---------------------------------------- RESERVATION ----------------------------------------*/
@@ -158,6 +161,7 @@ body {
         color: #4d5057;
     }
 
+
     /*---------------------------------------- RESERVATION ----------------------------------------*/
 
     .reservation {
@@ -174,3 +178,4 @@ body {
     }
     
 }
+
