@@ -103,14 +103,14 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
   
 
-![Gallery](https://github.com/alex-curnow96/pizza-py/README/Gallery.png)
+![Gallery](https://github.com/alexcurnow96/pizza-py/blob/main/README/Gallery.png)
 
   
   - __Menu Page__
   - The menu page will display the menu for the restaurant with a selection of Pizza's and Drinks.
   - The menu will be designed to keep in theme with the rest of the site and be appealing to customers.
 
-  ![Menu](https://github.com/alex-curnow96/pizza-py/README/Menu.png)
+  ![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/Menu.png)
 
 
 -  __The Reservation Page__
