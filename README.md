@@ -15,7 +15,7 @@ In this section, you should go over the different parts of your project, and des
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - This section features our brand colours and logo to create a uniform and cohesive website. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/alexcurnow96/pizza-py/blob/main/README/navbar-desktop.png)
 
 - __The landing page image__
 
@@ -147,6 +147,7 @@ You can break the credits section up into Content and Media, depending on what y
 
  Images from unsplash.com =
  - hero image - Photo by Narda Yescas: https://www.pexels.com/photo/shallow-focus-photography-of-several-pizzas-1566837/
+ - food image - Photo by cottonbro studio: https://www.pexels.com/photo/person-holding-sliced-of-pizza-4004465/
 
 ## Other General Project Advice
 
