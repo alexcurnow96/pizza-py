@@ -117,6 +117,11 @@ body {
     color:#4d5057;
 }
 
+.reservation a {
+    text-decoration: none;
+    color:#fff8f0;
+}
+
 
 /*---------------------------------------- FOOD INFO ----------------------------------------*/
 
@@ -127,10 +132,17 @@ body {
 
 .food-info h2 {
     font-family: 'Nunito', sans-serif;
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
     text-align: center;
     font-size: 280%;
     font-size: 50px;
+    color:#4d5057;
+}
+
+.food-one h3,
+.food-two h3 {
+    color:#4d5057;
 }
 
 .food-one > div,
@@ -143,10 +155,11 @@ body {
 .food-info p {
     font-family: 'Palanquin', sans-serif;
     padding: 0 20px;
+    color:#4d5057;
 }
 
 .food-info hr {
-    border-top: 1px solid #3a3a3a;
+    border-top: 1px solid #4d5057;
     margin: 5px 0;
 }
 
@@ -167,10 +180,29 @@ body {
 }
 
 
+/*---------------------------------------- MENU LINK ----------------------------------------*/
+
+.menu-link {
+    text-align: center;
+    margin: 0 0 30px 0;
+}
+
+.menu-link h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    color:#4d5057;
+}
+
+.menu-link a {
+    text-decoration: none;
+    color:#fff8f0;
+}
+
+
 
 /*---------------------------------------- MEDIA QUERIES ----------------------------------------*/
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
     .navbar li {
         padding: 8px;
         font-weight: 600;
@@ -178,7 +210,7 @@ body {
 
     .hero-image h1 {
         font-family: 'Alegreya Sans', sans-serif;
-        font-size: 800%;
+        font-size: 600%;
         font-weight: 500;
         text-align: center;
         display: flex;
@@ -186,7 +218,7 @@ body {
         align-items: center;
         position: absolute;
         top: 10%;
-        left: 60%
+        left: 50%;
     }
 
 
@@ -231,4 +263,26 @@ body {
         color:#4d5057;
     }
     
+    /*---------------------------------------- FOOD INFO ----------------------------------------*/
+
+
+    .food-one,
+    .food-two {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .food-info > div {
+        flex: 1;
+    }
+
+    /* .food-one {
+        align-items: flex-end;
+    }
+
+    .food-two {
+        align-items: flex-start;
+    } */
+
+   
 }
