@@ -129,7 +129,19 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The images used for the gallery page were taken from https://pexels.com
+- The list of images and artist are as follows
+- Photo by Eneida Nieves: https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/
+- Photo by Max Avans: https://www.pexels.com/photo/person-preparing-pizza-on-kitchen-counter-5056625/
+- Photo by Athena Sandrini: https://www.pexels.com/photo/green-haired-woman-eating-pizza-2323183/
+- Photo by Jonathan Hidalgo : https://www.pexels.com/photo/four-different-pizzas-on-the-table-19130144/
+- Photo by Rene Strgar: https://www.pexels.com/photo/pizza-served-in-a-restaurant-22797802/
+- Photo by Jonathan Hidalgo : https://www.pexels.com/photo/top-view-of-pizzas-with-different-toppings-19130050/
+- Photo by Jorge Fakhouri Filho: https://www.pexels.com/photo/photo-of-woman-looking-at-pizza-2531110/
+- Photo by Rene Strgar: https://www.pexels.com/photo/a-pizza-taken-from-an-oven-13946695/
+- Photo by Anna Shvets: https://www.pexels.com/photo/woman-eating-pizza-sitting-by-restaurant-window-5953591/
+- Photo by Marcus Herzberg: https://www.pexels.com/photo/group-of-people-gathering-inside-bar-1058277/
+- Photo by Igor Starkov: https://www.pexels.com/photo/photo-of-cafe-interior-1307698/
 
 
 
