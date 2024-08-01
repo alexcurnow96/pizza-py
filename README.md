@@ -173,6 +173,10 @@ Home page:
 
 ![Testing results](https://github.com/alexcurnow96/pizza-py/blob/main/README/testing.png)
 
+![Lighthouse Score Mobile](https://github.com/alexcurnow96/pizza-py/blob/main/README/lighthouse-mobile.png)
+
+![Lighthouse Score Desktop](https://github.com/alexcurnow96/pizza-py/blob/main/README/lighthouse-desktop.png)
+
 
 ### Features Left to Implement
 
