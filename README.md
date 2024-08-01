@@ -200,6 +200,12 @@ As a team, we brainstormed future ideas to implement if we had more time:
 ![Index Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/index.html-validation.png)
 
 ![CSS Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/css-validation.png)
+
+- Dalton was used for colour blindness testing
+
+- Wave was used for quality assurance
+
+- Lighthouse was used for non-functional testing
   
 
 ### Unfixed Bugs
