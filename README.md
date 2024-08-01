@@ -124,7 +124,7 @@ __The Contact Us Page__
 
 -This page will have our full contact details including a map of our location.
 
-![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/contact.png)
+![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/contactpage.png)
 
 
 ## UX
@@ -281,6 +281,3 @@ The map on the Contact.html page was taken from https://www.google.co.uk/maps
 ## General Project Advice
 
   Thanks to the other teams, the team leads, and our ever amazing leader, Amy. This project couldn't have been completed without all of your support. 
-
-
-  THIS WILL BE DELETED IN A MINUTE - TEST COMMIT PURPOSES 
