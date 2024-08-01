@@ -141,7 +141,7 @@ For the purpose of our Italian restaurant's website, we chose pizza themed colou
 grey and an off-white to complement. We chose these colours for continuity between the images featured in the gallery and the branding of the site. 
 The images used were also taken from photographers around the world, rather than being made with AI, to better show the pizza topic.
 
-![Colour Palette](https://github.com/alexcurnow96/pizza-py/blob/main/README/pizza-restaurant/pizzapy-palette.png)
+![Colour Palette](https://github.com/alexcurnow96/pizza-py/blob/main/README/pizzapy-palette.png)
 
 ### Wire Frames
 
@@ -215,9 +215,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-  
 
-The live link can be found here - https://alexcurnow96.github.io/pizza-py/
+The live link can be found here - https://alexcurnow96.github.io/pizza-py/ 
 
   
 ## Credits
@@ -279,6 +278,9 @@ The logo was created by https://www.logoAI.com
 
 The map on the Contact.html page was taken from https://www.google.co.uk/maps
 
-## Other General Project Advice
+## General Project Advice
 
   Thanks to the other teams, the team leads, and our ever amazing leader, Amy. This project couldn't have been completed without all of your support. 
+
+
+  THIS WILL BE DELETED IN A MINUTE - TEST COMMIT PURPOSES 
