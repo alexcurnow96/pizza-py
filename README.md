@@ -124,7 +124,7 @@ __The Contact Us Page__
 
 -This page will have our full contact details including a map of our location.
 
-![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/contact.png)
+![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/contactpage.png)
 
 
 ## UX
