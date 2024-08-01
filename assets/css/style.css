@@ -320,3 +320,8 @@ body {
 .menu-header {
     visibility: hidden;
 }
+
+    /*---------------------------------------- Contact us ----------------------------------------*/
+#contact-header {
+        visibility: hidden;
+}
