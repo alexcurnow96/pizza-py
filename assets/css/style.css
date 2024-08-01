@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
     background-color: #fff8f0;
@@ -18,12 +24,18 @@ body {
     background-color: #fff8f0;
 }
 
-.nav-item a {
+.nav-item > a {
     color: #fff8f0;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
     margin: 0 auto;
 }
+
+
+.nav-item.active > a {
+    font-weight: bold;
+}
+
 
 
 /*---------------------------------------- HERO IMAGE ----------------------------------------*/
@@ -111,13 +123,95 @@ body {
     color:#4d5057;
 }
 
+.reservation a {
+    text-decoration: none;
+    color:#fff8f0;
+}
+
+
+/*---------------------------------------- FOOD INFO ----------------------------------------*/
+
+.food-info {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.food-info h2 {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 280%;
+    font-size: 50px;
+    color:#4d5057;
+}
+
+.food-one h3,
+.food-two h3 {
+    color:#4d5057;
+}
+
+.food-one > div,
+.food-two > div {
+    line-height: 20px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+.food-info p {
+    font-family: 'Palanquin', sans-serif;
+    padding: 0 20px;
+    color:#4d5057;
+}
+
+.food-info hr {
+    border-top: 1px solid #4d5057;
+    margin: 5px 0;
+}
+
+.circle-image {
+    background: url('../images/round-pizza.jpg') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.food-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*---------------------------------------- MENU LINK ----------------------------------------*/
+
+.menu-link {
+    text-align: center;
+    margin: 0 0 30px 0;
+}
+
+.menu-link h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    color:#4d5057;
+}
+
+.menu-link a {
+    text-decoration: none;
+    color:#fff8f0;
+}
+
+
 
 
 
 
 /*---------------------------------------- MEDIA QUERIES ----------------------------------------*/
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
     .navbar li {
         padding: 8px;
         font-weight: 600;
@@ -125,7 +219,7 @@ body {
 
     .hero-image h1 {
         font-family: 'Alegreya Sans', sans-serif;
-        font-size: 800%;
+        font-size: 600%;
         font-weight: 500;
         text-align: center;
         display: flex;
@@ -133,8 +227,9 @@ body {
         align-items: center;
         position: absolute;
         top: 10%;
-        left: 60%
+        left: 50%;
     }
+
 
     /*---------------------------------------- ABOUT US ----------------------------------------*/
     
@@ -177,5 +272,56 @@ body {
         color:#4d5057;
     }
     
+    /*---------------------------------------- FOOD INFO ----------------------------------------*/
+
+
+    .food-one,
+    .food-two {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .food-info > div {
+        flex: 1;
+    }
+
+    /* .food-one {
+        align-items: flex-end;
+    }
+
+    .food-two {
+        align-items: flex-start;
+    } */
+
+   
 }
 
+
+@media screen and (min-width: 1024px) {
+
+    .hero-image h1 {
+        left: 60%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+    .hero-image h1 {
+        left: 70%;
+    }
+}
+
+    /*---------------------------------------- Gallery ----------------------------------------*/
+.gallery-header {
+    visibility: hidden;
+}
+
+    /*---------------------------------------- Menu ----------------------------------------*/
+.menu-header {
+    visibility: hidden;
+}
+
+    /*---------------------------------------- Contact us ----------------------------------------*/
+#contact-header {
+        visibility: hidden;
+}
