@@ -24,7 +24,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 ![Nav Bar](https://github.com/alexcurnow96/pizza-py/blob/main/README/navbar-mobile.png)
 
   
--  __The landing page image__
+__The landing page image__
 
 - The landing includes a photograph with text overlay to allow the user to see the name of the site and an image of the pizzas available.
 
@@ -35,17 +35,17 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 ![Landing Page](https://github.com/alexcurnow96/pizza-py/blob/main/README/hero-image.png)
 
   
--  __Promotion Banner__
+__Promotion Banner__
 
 - The promotion banner will feature this months promotion for customers to see. 
-- 
+
 - It will be seperated from the rest of the page with a green background so visitors to the site will be able to read it immediately and be enticed to visit the restaurant.   
 
 ![Promo Banner](https://github.com/alexcurnow96/pizza-py/blob/main/README/promo-banner.png)
 
   
 
--  __About us Section__
+__About us Section__
 
 - This section will tell the visitor who we are. It will include our history and ethos and allow visitors to see what the restaurant is about. 
 
@@ -55,7 +55,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 
 
--  __Links__
+__Links__
 
 - This landing page features two prominent links, one to the reservation page and one to the menu page. These are clearly signposted to drive traffic to action (booking a table or looking at the menu).
 
@@ -67,7 +67,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 
 
--  __Food Info Section__
+__Food Info Section__
 
 - This section will tell the visitor about the food we serve. It is filled with evocative language to entice the visitor to want to visit the restaurant. 
 
@@ -77,7 +77,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 
 
--  __The Footer__ 
+__The Footer__ 
 
 - The footer section includes links to the relevant social media sites for Pizza PY. The links will open to a new tab to allow easy navigation for the user.
 
@@ -90,7 +90,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
   
 
--  __Gallery Page__
+__Gallery Page__
 
 - The gallery will provide the user with supporting images to see what the restaurant and menu look like.
 
@@ -100,7 +100,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 
 
-  - __Menu Page__
+__Menu Page__
 
   - The menu page will display the menu for the restaurant with a selection of Pizza's and Drinks.
 
@@ -109,7 +109,7 @@ The site will be useful to see where the restaurant is and the full menu, as wel
   ![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/Menu.png)
 
 
--  __The Reservation Page__
+__The Reservation Page__
 
 - This page will allow customers to select a date, time and party size and be able to let them reserve their timeslot.
 
@@ -120,9 +120,9 @@ The site will be useful to see where the restaurant is and the full menu, as wel
 
 __The Contact Us Page__
 
--This page will allow customers to leave a comment or review.
+- This page will allow customers to leave a comment or review.
 
--This page will have our full contact details including a map of our location.
+- This page will have our full contact details including a map of our location.
 
 ![Menu](https://github.com/alexcurnow96/pizza-py/blob/main/README/contactpage.png)
 
