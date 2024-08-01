@@ -171,8 +171,7 @@ Home page:
 
 ### Testing
 
-
-
+![Testing results](https://github.com/alexcurnow96/pizza-py/blob/main/README/testing.png)
 
 
 ### Features Left to Implement
@@ -185,7 +184,6 @@ As a team, we brainstormed future ideas to implement if we had more time:
 - Review page
 - Links to review sites to push confidence in the business and brand.
 
-  
 
 ### Validator Testing
 
