@@ -215,9 +215,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-  
 
-The live link can be found here - https://alexcurnow96.github.io/pizza-py/
+The live link can be found here - https://alexcurnow96.github.io/pizza-py/ 
 
   
 ## Credits
@@ -279,6 +278,6 @@ The logo was created by https://www.logoAI.com
 
 The map on the Contact.html page was taken from https://www.google.co.uk/maps
 
-## Other General Project Advice
+## General Project Advice
 
   Thanks to the other teams, the team leads, and our ever amazing leader, Amy. This project couldn't have been completed without all of your support. 
