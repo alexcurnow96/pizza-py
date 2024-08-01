@@ -191,9 +191,15 @@ As a team, we brainstormed future ideas to implement if we had more time:
 
 ### Validator Testing
 
-![Gallery Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/gallery-validation.png)
+![Gallery Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/gallery.html-validation.png)
 
-![Menu Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/menu-validation.png)
+![Menu Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/menu.html-validation.png)
+
+![Contact Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/contact.html-validation.png)
+
+![Index Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/index.html-validation.png)
+
+![CSS Validation](https://github.com/alexcurnow96/pizza-py/blob/main/README/css-validation.png)
   
 
 ### Unfixed Bugs
