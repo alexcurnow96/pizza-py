@@ -281,6 +281,3 @@ The map on the Contact.html page was taken from https://www.google.co.uk/maps
 ## General Project Advice
 
   Thanks to the other teams, the team leads, and our ever amazing leader, Amy. This project couldn't have been completed without all of your support. 
-
-
-  THIS WILL BE DELETED IN A MINUTE - TEST COMMIT PURPOSES 
