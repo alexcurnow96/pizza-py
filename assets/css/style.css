@@ -230,6 +230,12 @@ body {
         left: 50%;
     }
 
+    @media screen and (min-width: 320px) {
+        footer {
+            text-align: center;
+        }
+    }
+
 
     /*---------------------------------------- ABOUT US ----------------------------------------*/
     
